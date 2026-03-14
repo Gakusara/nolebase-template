@@ -154,7 +154,7 @@ const ExtendedTheme: Theme = {
       repo: 'Gakusara/nolebase-template',
       repoId: 'R_kgDORmu7SQ',
       category: 'Announcements', // default: `General`
-      categoryId: 'DIC_kwDOL5WHss4CfTYs',
+      categoryId: 'DIC_kwDORmu7Sc4C4Xv-',
       mapping: 'url', // default: `pathname`
       inputPosition: 'top', // default: `top`
       lang: 'zh-CN', // default: `zh-CN`
