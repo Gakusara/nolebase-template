@@ -6,7 +6,7 @@ title: Karasu's Own Storage
 titleTemplate: 个人知识库
 
 hero:
-  name: Karasu's Own Storage
+  name: Karasu
   text: 记录回忆，知识和畅想的地方
   image:
     src: /logo.svg
