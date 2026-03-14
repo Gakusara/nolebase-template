@@ -152,7 +152,7 @@ const ExtendedTheme: Theme = {
     // Obtain configuration from: https://giscus.app/
     giscusTalk({
       repo: 'Gakusara/nolebase-template',
-      repoId: 'R_kgDOL5WHsg',
+      repoId: 'R_kgDORmu7SQ',
       category: 'Announcements', // default: `General`
       categoryId: 'DIC_kwDOL5WHss4CfTYs',
       mapping: 'url', // default: `pathname`
